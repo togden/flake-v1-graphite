@@ -171,10 +171,10 @@
 
         Alpha {
             bindings = <
-&kp ESC           &kp B     &kp L  &kp D        &kp W               &kp Z                 &AposUnderscore  &kp F                   &kp O          &kp U       &kp J           &kp SEMICOLON
-&kp BACKSLASH     &kp N     &kp R  &kp T        &kp S               &kp G                 &kp Y            &kp H                   &kp A          &kp E       &kp I           &CommaQuestion
-&kp LEFT_CONTROL  &kp Q     &kp X  &kp M        &kp C               &kp V                 &kp K            &kp P                   &kp PERIOD     &dashquote  &SlashLessThan  &kp RIGHT_ALT
-                  &kp LBKT  &kp Z  &lt 1 SPACE  &mt LEFT_SHIFT TAB  &mt LEFT_SHIFT TAB    &mo 2            &mt RIGHT_SHIFT RETURN  &kp BACKSPACE  &kp DELETE  &kp DOT
+&kp ESC           &kp B  &kp L  &kp D        &kp W               &kp Z                 &AposUnderscore  &kp F                   &kp O          &kp U       &kp J           &kp SEMICOLON
+&kp BACKSLASH     &kp N  &kp R  &kp T        &kp S               &kp G                 &kp Y            &kp H                   &kp A          &kp E       &kp I           &CommaQuestion
+&kp LEFT_CONTROL  &kp Q  &kp X  &kp M        &kp C               &kp V                 &kp K            &kp P                   &kp PERIOD     &dashquote  &SlashLessThan  &kp RIGHT_ALT
+                  &none  &none  &lt 1 SPACE  &mt LEFT_SHIFT TAB  &mt LEFT_SHIFT TAB    &mo 2            &mt RIGHT_SHIFT RETURN  &kp BACKSPACE  &kp DELETE  &kp DOT
             >;
         };
 
