@@ -2,7 +2,6 @@
     "id": "anywhy_flake",
     "name": "Anywhy Flake",
     "layouts": {
-      
       "medium_layout": {
         "name": "Anywhy Flake M layout",
         "layout": [
@@ -56,6 +55,7 @@
           { "row": 4, "col": 10, "x": 12, "y":    3 },
           { "row": 4, "col": 11, "x": 13, "y": 3.25 }
         ]
+      }
     },
     "sensors": []
   }
